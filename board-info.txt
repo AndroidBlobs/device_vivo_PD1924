@@ -1,0 +1,7 @@
+require version-baseband=1.0.c5-00086-SM8150_GEN_PACK-1.220523.5.223503.2
+require version-baseband=1.5.2-00368-SM8150_GENFUSION_PACK-1.224307.1.224792.2
+require version-baseband=2.1-00458-SDX50MV2_RMTEFS_PACK-1.224307.1.224792.1
+require version-modem=2019-10-2223:39:50
+require version-modem=2019-10-2223:40:16
+require version-trustzone=TZ.XF.5.2.2-00055
+require version-vendor=1571755846
